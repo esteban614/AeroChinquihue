@@ -148,7 +148,7 @@ get_flight_count(), falta implementarlo en View)
 * [X] OK: Permitir la modificación de valores en la vista de gerente y agregar
 validaciones correspondientes
 
-* [ ] Pendiente: Agregar límites de pasajeros y peso para cada avión y agregar validaciones
+* [X] Pendiente: Agregar límites de pasajeros y peso para cada avión y agregar validaciones
 correspondientes
 
 * [ ] Pendiente: Agregar una representación gráfica de los asientos para un vuelo
